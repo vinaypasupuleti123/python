@@ -1,6 +1,6 @@
 n1=int(input("enter the divisor number"))
 n2=int(input("enter the divident number"))
-quo=n2/n1
+quo=n2//n1
 rem=n2%n1
 print("the quotient",quo)
 print("the remainder",rem)
